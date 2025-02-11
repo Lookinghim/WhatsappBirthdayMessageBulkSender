@@ -21,9 +21,23 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone this repository:
- ```plaintext
-   https://github.com/Lookinghim/WhatsappBirthdayMessageBulkSender.git
- ```
+```plaintext
+https://github.com/Lookinghim/WhatsappBirthdayMessageBulkSender.git
+```
+
+2. Create a virtual environment (optional but recommended):
+
+```plaintext
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
+
+
+3. Install the required packages:
+
+```plaintext
+pip install -r requirements.txt
+```
 
 ## Configuration
 
