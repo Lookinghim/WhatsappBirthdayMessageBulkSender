@@ -21,6 +21,9 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone this repository:
+ ```plaintext
+   https://github.com/Lookinghim/WhatsappBirthdayMessageBulkSender.git
+ ```
 
 ## Configuration
 
